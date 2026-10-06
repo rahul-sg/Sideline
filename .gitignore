@@ -1,0 +1,17 @@
+node_modules
+dist
+pipeline/raw
+public/data/games
+public/data/routes.bin
+public/data/routes.json
+public/data/index.json
+__pycache__
+.DS_Store
+vision/.venv
+vision/videos
+vision/out
+vision/*.pt
+# Plays estimated from your own video files: local and personal
+public/data/video
+# Mixamo source downloads (only the baked clips.json is needed to run)
+public/models/anims/*.fbx

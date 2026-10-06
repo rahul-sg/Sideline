@@ -1,0 +1,9 @@
+ultralytics==8.4.173
+torch==2.14.1
+opencv-python==4.11.0.86
+scipy==1.15.3
+scikit-learn==1.7.2
+numpy==1.26.4
+pandas>=2.2
+lap>=0.5
+easyocr==1.7.2

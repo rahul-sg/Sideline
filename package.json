@@ -1,0 +1,39 @@
+{
+  "name": "sideline",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run && python3 pipeline/tests/test_build.py",
+    "test:vision": "vision/.venv/bin/python -W ignore vision/tests/test_vision.py",
+    "data": "python3 pipeline/build.py",
+    "season": "python3 pipeline/season.py",
+    "preview-data": "python3 pipeline/tests/make_dev_play.py pipeline/raw/preview_src && python3 pipeline/build.py --source pipeline/raw/preview_src --out public/data/preview --featured pipeline/tests/preview_featured.json --label \"Synthetic preview play (not real NFL data)\""
+  },
+  "dependencies": {
+    "@fontsource/barlow-condensed": "^5.3.0",
+    "@fontsource/inter": "^5.3.0",
+    "@react-three/drei": "^9.117.3",
+    "@react-three/fiber": "^8.17.10",
+    "@react-three/postprocessing": "^2.16.3",
+    "maath": "^0.10.8",
+    "postprocessing": "^6.36.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "three": "^0.169.0",
+    "zustand": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@types/three": "^0.169.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11",
+    "vitest": "^2.1.8"
+  }
+}

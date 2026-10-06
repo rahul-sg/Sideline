@@ -1,0 +1,115 @@
+[
+  {
+    "gameId": 2023110505,
+    "playId": 4459,
+    "title": "C.J. Stroud to Tank Dell with :10 left",
+    "subtitle": "Game-winning TD to beat Tampa Bay, 2023 Week 9",
+    "film": null
+  },
+  {
+    "gameId": 2023123000,
+    "playId": 698,
+    "title": "Dak Prescott to CeeDee Lamb, 92 yards",
+    "subtitle": "Deep right vs. Detroit, 2023 Week 17",
+    "film": null
+  },
+  {
+    "gameId": 2023120306,
+    "playId": 388,
+    "title": "Tua to Tyreek Hill, 78 yards",
+    "subtitle": "Deep left vs. Washington, 2023 Week 13",
+    "film": null
+  },
+  {
+    "gameId": 2023111909,
+    "playId": 3126,
+    "title": "Josh Allen to Khalil Shakir, 81 yards",
+    "subtitle": "Deep right vs. the Jets, 2023 Week 11",
+    "film": null
+  },
+  {
+    "gameId": 2023121801,
+    "playId": 3997,
+    "title": "Drew Lock to Jaxon Smith-Njigba with :33 left",
+    "subtitle": "29-yard go-ahead TD vs. Philadelphia",
+    "film": null
+  },
+  {
+    "gameId": 2023123101,
+    "playId": 1724,
+    "title": "Lamar Jackson to Zay Flowers, 75 yards",
+    "subtitle": "Deep right vs. Miami, 2023 Week 17",
+    "film": null
+  },
+  {
+    "gameId": 2023111908,
+    "playId": 2142,
+    "title": "Brock Purdy to Brandon Aiyuk, 76 yards",
+    "subtitle": "Deep left vs. Tampa Bay, 2023 Week 11",
+    "film": null
+  },
+  {
+    "gameId": 2023101511,
+    "playId": 4227,
+    "title": "Tony Adams picks off Jalen Hurts",
+    "subtitle": "2:00 left, sets up the Jets' upset of Philadelphia",
+    "film": null
+  },
+  {
+    "gameId": 2023092406,
+    "playId": 4823,
+    "title": "Kenneth Murray picks Kirk Cousins at the goal line",
+    "subtitle": ":12 left, Chargers hold on in Minnesota",
+    "film": null
+  },
+  {
+    "gameId": 2017090700,
+    "playId": 2756,
+    "title": "Alex Smith to Tyreek Hill, 75 yards",
+    "subtitle": "Deep right, untouched to the end zone",
+    "film": null
+  },
+  {
+    "gameId": 2017090700,
+    "playId": 3725,
+    "title": "Smith to Kareem Hunt, 78 yards",
+    "subtitle": "A rookie's first catch-and-run touchdown",
+    "film": {
+      "videoId": "lhk1tV3BVVg",
+      "channel": "NFL",
+      "title": "Kareem Hunt's Record-Setting Breakout Debut! | Chiefs vs. Patriots | NFL Wk 1 Player Highlights"
+    }
+  },
+  {
+    "gameId": 2017090700,
+    "playId": 4465,
+    "title": "Kareem Hunt, 58 yards to the NE 21",
+    "subtitle": "Left end, run down by McCourty",
+    "film": {
+      "videoId": "lhk1tV3BVVg",
+      "channel": "NFL",
+      "title": "Kareem Hunt's Record-Setting Breakout Debut! | Chiefs vs. Patriots | NFL Wk 1 Player Highlights"
+    }
+  },
+  {
+    "gameId": 2017090700,
+    "playId": 3874,
+    "title": "Chiefs stuff Gillislee",
+    "subtitle": "No gain up the middle, the biggest swing NE suffered",
+    "film": null
+  },
+  {
+    "gameId": 2017090700,
+    "playId": 3409,
+    "title": "Brady to Brandin Cooks, 54 yards",
+    "subtitle": "Deep left down to the KC 18",
+    "film": null
+  },
+  {
+    "gameId": 2017090700,
+    "playId": 4486,
+    "title": "Charcandrick West, 21-yard TD",
+    "subtitle": "Right guard to seal the opener",
+    "film": null
+  }
+]
